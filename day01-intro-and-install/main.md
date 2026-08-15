@@ -114,6 +114,8 @@ typst --version
 
 這篇算是整個系列的起點：從 LaTeX 的痛點出發，認識了 Typst 這個以 Rust 打造、主打快速編譯與簡潔語法的新選擇，也把環境準備好了——不管是 macOS、Linux、Windows 裝 CLI 搭配 VS Code 插件，或是懶得裝東西直接用 typst.app 線上編輯，都能開始寫。接下來的文章會正式進入 Typst 的語法本體，從最基本的標記語法開始，一步步比對它跟 LaTeX 的差異！
 
+本篇程式碼：[day01-intro-and-install](https://github.com/yueswater/typst-ironman-2026/tree/main/day01-intro-and-install)
+
 ---
 
 <a id="note1"></a>¹ 請參考[官方 Repo](https://github.com/typst/typst) 說明。

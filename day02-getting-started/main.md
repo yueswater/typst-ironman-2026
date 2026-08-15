@@ -129,6 +129,8 @@ writing to hello.pdf
 
 我們下次見囉～
 
+本篇程式碼：[day02-getting-started](https://github.com/yueswater/typst-ironman-2026/tree/main/day02-getting-started)
+
 ---
 
 <a id="note1"></a>¹ 與 Markdown 不同的是：Markdown 的粗體、斜體通常用雙符號（如 `**bold**`、`__italic__`），Typst 只用單一個符號（`*bold*`、`_italic_`）就能達成同樣效果。
