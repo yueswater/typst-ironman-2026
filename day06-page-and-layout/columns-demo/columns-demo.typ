@@ -1,5 +1,11 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 10.5pt)
-#set page(paper: "a4", margin: 2.2cm)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 10.5pt
+)
+#set page(
+    paper: "a4",
+    margin: 2.2cm
+)
 #set par(justify: true)
 
 #align(center)[

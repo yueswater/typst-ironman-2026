@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 14pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 14pt
+)
 #show link: it => underline(text(fill: blue, it))
 
 = 連結語法範例

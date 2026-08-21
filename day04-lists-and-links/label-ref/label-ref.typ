@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 14pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 14pt
+)
 #set heading(numbering: "1.")
 
 = 介紹 <intro>

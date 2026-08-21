@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 12pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 12pt
+)
 
 #page(paper: "a4")[
   = A4 直式頁面

@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 11pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 11pt
+)
 #set page(
   paper: "a5",
   binding: left,

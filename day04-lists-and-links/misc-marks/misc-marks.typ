@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 14pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 14pt
+)
 
 = 常用標記語法範例
 

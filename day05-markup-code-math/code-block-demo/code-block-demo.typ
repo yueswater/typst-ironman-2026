@@ -1,6 +1,12 @@
 #set page(width: 15cm, height: auto, margin: 1.5cm)
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 11pt)
-#show raw: set text(font: "JetBrains Mono", size: 9.5pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 11pt
+)
+#show raw: set text(
+    font: "JetBrains Mono",
+    size: 9.5pt
+)
 #set raw(theme: "minted-default.tmTheme")
 #show raw.where(block: true): it => {
   show raw.line: line => {

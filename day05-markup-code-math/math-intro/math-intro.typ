@@ -1,4 +1,7 @@
-#set text(font: ("Libertinus Serif", "PingFang TC"), size: 12pt)
+#set text(
+    font: ("Libertinus Serif", "PingFang TC"),
+    size: 12pt
+)
 
 = 積分變數變換
 
